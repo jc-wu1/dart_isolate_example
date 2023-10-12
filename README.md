@@ -37,9 +37,6 @@
 [√] VS Code (version 1.83.1)
     • VS Code at C:\Users\mobiledev\AppData\Local\Programs\Microsoft VS Code
     • Flutter extension version 3.74.0
-```
     • Chrome (web)                 • chrome        • web-javascript • Google Chrome 117.0.5938.132
     • Edge (web)                   • edge          • web-javascript • Microsoft Edge 117.0.2045.60
-
-[√] Network resources
-    • All expected network resources are available.
+```
