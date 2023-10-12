@@ -12,14 +12,11 @@
 [√] Windows Version (Installed version of Windows is version 10 or higher)
 
 [√] Android toolchain - develop for Android devices (Android SDK version 34.0.0)
-    • Android SDK at C:\Users\mobiledev\AppData\Local\Android\sdk
     • Platform android-34, build-tools 34.0.0
-    • Java binary at: C:\Program Files\Android\Android Studio\jbr\bin\java
     • Java version OpenJDK Runtime Environment (build 17.0.6+0-b2043.56-10027231)
     • All Android licenses accepted.
 
 [√] Chrome - develop for the web
-    • Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
 
 [X] Visual Studio - develop Windows apps
     X Visual Studio not installed; this is necessary to develop Windows apps.
@@ -27,7 +24,6 @@
       Please install the "Desktop development with C++" workload, including all of its default components
 
 [√] Android Studio (version 2022.3)
-    • Android Studio at C:\Program Files\Android\Android Studio
     • Flutter plugin can be installed from:
        https://plugins.jetbrains.com/plugin/9212-flutter
     • Dart plugin can be installed from:
