@@ -2,7 +2,7 @@
 
 ```
 [√] Flutter (Channel stable, 3.13.2, on Microsoft Windows [Version 10.0.19045.3570], locale en-ID)
-    • Flutter version 3.13.2 on channel stable at C:\dev\flutter
+    • Flutter version 3.13.2 on channel stable
     • Upstream repository https://github.com/flutter/flutter.git
     • Framework revision ff5b5b5fa6 (7 weeks ago), 2023-08-24 08:12:28 -0500
     • Engine revision b20183e040
@@ -31,7 +31,6 @@
     • Java version OpenJDK Runtime Environment (build 17.0.6+0-b2043.56-10027231)
 
 [√] VS Code (version 1.83.1)
-    • VS Code at C:\Users\mobiledev\AppData\Local\Programs\Microsoft VS Code
     • Flutter extension version 3.74.0
     • Chrome (web)                 • chrome        • web-javascript • Google Chrome 117.0.5938.132
     • Edge (web)                   • edge          • web-javascript • Microsoft Edge 117.0.2045.60
